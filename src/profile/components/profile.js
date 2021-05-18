@@ -115,7 +115,7 @@
 //   }
 // }
 //  _____________________________________________________________________________________
-// checkpoint
+//CHECKPOINT REACT STATE 
 // const content={
 //      boxShadow:' 10px 10px 8px 10px #888888' , marginLeft:'300px' , marginRight:'300px' 
 // }
